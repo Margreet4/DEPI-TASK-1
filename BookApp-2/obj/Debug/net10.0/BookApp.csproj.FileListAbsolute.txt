@@ -1,0 +1,14 @@
+C:\Users\AlBadr\BookApp\bin\Debug\net10.0\BookApp.exe
+C:\Users\AlBadr\BookApp\bin\Debug\net10.0\BookApp.deps.json
+C:\Users\AlBadr\BookApp\bin\Debug\net10.0\BookApp.runtimeconfig.json
+C:\Users\AlBadr\BookApp\bin\Debug\net10.0\BookApp.dll
+C:\Users\AlBadr\BookApp\bin\Debug\net10.0\BookApp.pdb
+C:\Users\AlBadr\BookApp\obj\Debug\net10.0\BookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlBadr\BookApp\obj\Debug\net10.0\BookApp.AssemblyInfoInputs.cache
+C:\Users\AlBadr\BookApp\obj\Debug\net10.0\BookApp.AssemblyInfo.cs
+C:\Users\AlBadr\BookApp\obj\Debug\net10.0\BookApp.csproj.CoreCompileInputs.cache
+C:\Users\AlBadr\BookApp\obj\Debug\net10.0\BookApp.dll
+C:\Users\AlBadr\BookApp\obj\Debug\net10.0\refint\BookApp.dll
+C:\Users\AlBadr\BookApp\obj\Debug\net10.0\BookApp.pdb
+C:\Users\AlBadr\BookApp\obj\Debug\net10.0\BookApp.genruntimeconfig.cache
+C:\Users\AlBadr\BookApp\obj\Debug\net10.0\ref\BookApp.dll
