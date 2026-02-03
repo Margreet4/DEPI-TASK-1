@@ -1,0 +1,70 @@
+using System;
+//parent
+public class BankAccount{
+    public string FullName  { get; set; }
+    public decimal Balance  { get; set; }
+     public decimal AccountNumber  { get; set; }
+  
+  public  virtual void  ShowAccountDetails(){
+        Console.WriteLine($"Name: {FullName}, AccountNumber : {AccountNumber}, Balance: {Balance}");
+    }
+  }
+ public virtual void  CalculateInterest(){
+Console.WriteLine("it's calc the accbalance");
+  }
+ 
+
+
+//  (Child)
+public class SavingAccount  : BankAccount  {
+ public decimal InterestRate  { get; set; } 
+
+    public override void ShowAccountDetails() {
+        Console.WriteLine($"Name: {FullName}, AccountNumber : {AccountNumber}, Balance: {Balance}");
+    }
+  }
+    public  override void CalculateInterest(){decimal interest = Balance * InterestRate / 100;
+        Console.WriteLine($"Interest for saving account: {interest}");
+    }
+
+
+
+//  (Child)2
+public class CurrentAccount   : BankAccount  {
+ private decimal OverdraftLimit   { get; set; } 
+
+    public override void ShowAccountDetails() {
+        Console.WriteLine($"Name: {FullName}, AccountNumber : {AccountNumber}, Balance: {Balance}");
+    }
+  }
+    public  override void CalculateInterest(){ Console.WriteLine("Current account doesnot earn interest");
+  }
+
+class Program {
+     static void Main(){
+        SavingAccount saving = new SavingAccount
+        {
+            FullName = "Margreer",
+            AccountNumber = 1001,
+            Balance = 500000,
+            InterestRate = 4
+        };
+        CurrentAccount Current = new CurrentAccount
+        {
+            FullName = "posy",
+            AccountNumber = 1005,
+            Balance = 55200,
+            OverdraftLimit = 1000
+        };
+        list<BankAccount>accounts =new     list<BankAccount>();
+        accounts.Add(saving);
+      accounts.Add(Current);
+      foreach (BankAccount acc in accounts)
+      {
+        acc.ShowAccountDetails()
+        acc.CalculateInterest()
+        Console.WriteLine("the new one ");
+      }
+     }
+
+}
