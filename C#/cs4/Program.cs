@@ -71,7 +71,7 @@ public class Customers
             }
         }
 
-        // البحث بالاسم
+        
         public bool SearchByName(string name)
         {
             return parent.FullName == name;
@@ -275,3 +275,4 @@ class Program
         accManager.Remove();
     }
 }
+
