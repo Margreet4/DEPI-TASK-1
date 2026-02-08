@@ -1,0 +1,14 @@
+C:\Users\AlBadr\OneDrive\Desktop\FULL-STACK\C#\cs4\bin\Debug\net10.0\cs4.exe
+C:\Users\AlBadr\OneDrive\Desktop\FULL-STACK\C#\cs4\bin\Debug\net10.0\cs4.deps.json
+C:\Users\AlBadr\OneDrive\Desktop\FULL-STACK\C#\cs4\bin\Debug\net10.0\cs4.runtimeconfig.json
+C:\Users\AlBadr\OneDrive\Desktop\FULL-STACK\C#\cs4\bin\Debug\net10.0\cs4.dll
+C:\Users\AlBadr\OneDrive\Desktop\FULL-STACK\C#\cs4\bin\Debug\net10.0\cs4.pdb
+C:\Users\AlBadr\OneDrive\Desktop\FULL-STACK\C#\cs4\obj\Debug\net10.0\cs4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlBadr\OneDrive\Desktop\FULL-STACK\C#\cs4\obj\Debug\net10.0\cs4.AssemblyInfoInputs.cache
+C:\Users\AlBadr\OneDrive\Desktop\FULL-STACK\C#\cs4\obj\Debug\net10.0\cs4.AssemblyInfo.cs
+C:\Users\AlBadr\OneDrive\Desktop\FULL-STACK\C#\cs4\obj\Debug\net10.0\cs4.csproj.CoreCompileInputs.cache
+C:\Users\AlBadr\OneDrive\Desktop\FULL-STACK\C#\cs4\obj\Debug\net10.0\cs4.dll
+C:\Users\AlBadr\OneDrive\Desktop\FULL-STACK\C#\cs4\obj\Debug\net10.0\refint\cs4.dll
+C:\Users\AlBadr\OneDrive\Desktop\FULL-STACK\C#\cs4\obj\Debug\net10.0\cs4.pdb
+C:\Users\AlBadr\OneDrive\Desktop\FULL-STACK\C#\cs4\obj\Debug\net10.0\cs4.genruntimeconfig.cache
+C:\Users\AlBadr\OneDrive\Desktop\FULL-STACK\C#\cs4\obj\Debug\net10.0\ref\cs4.dll
